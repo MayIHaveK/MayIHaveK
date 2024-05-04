@@ -6,10 +6,10 @@
     </a>
   </div>
     <!-- knock code pictures 敲代码的图片 -->
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://43.139.222.77:5212/f/4BTD/Logo.png" />
     <source media="(prefers-color-scheme: light)" srcset="http://43.139.222.77:5212/f/4BTD/Logo.png" height="225px" />
-    <img src="http://43.139.222.77:5212/f/4BTD/Logo.png" />
+    <img src="http://43.139.222.77:5212/f/4BTD/Logo.png" height="225px" style="width: auto;" />
   </picture>
 
   <div>&nbsp;</div>
