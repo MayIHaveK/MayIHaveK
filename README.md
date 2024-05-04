@@ -23,6 +23,6 @@
     <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000"/></a>&emsp;
   </div>
 <!-- Github Readme Activity Graph -->
-    <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&theme=react" />-->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&theme=react" />
 
 </div>
