@@ -22,7 +22,9 @@
     <img src="https://img.shields.io/badge/-Go-00bdd8?style=for-the-badge&logo=Go&logoColor=fff"/></a>&emsp;
     <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000"/></a>&emsp;
   </div>
+  
+  <div>&nbsp;</div>
 <!-- Github Readme Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&theme=react" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&xcode&bg_color=FF000000&hide_border=true" />
 
 </div>
