@@ -5,8 +5,10 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=545&lines=System.out.println(%22Hello%2C%20World%22);你好，朋友！&center=true&size=27" />
     </a>
   </div>
-    <!-- knock code pictures 敲代码的图片 -->
-  <img src="http://43.139.222.77:5212/f/g4I8/Logo.jpg" />
+    <!-- 图片 -->
+  <picture>
+    <img src="http://43.139.222.77:5212/f/g4I8/Logo.jpg" />
+  </picture>
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
