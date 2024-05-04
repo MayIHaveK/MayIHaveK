@@ -19,7 +19,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <img src="https://komarev.com/ghpvc/?username=MayIHaveK&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=MayIHaveK&label=Views&color=orange&style=for-the-badge" alt="访问量统计" />&emsp;
+    
   </div>
 
 </div>
