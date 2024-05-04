@@ -25,6 +25,6 @@
 
   <div>&nbsp;</div>
 <!-- Github Readme Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&xcode&bg_color=FF000000&hide_border=true&line=686868&title_color=686868&point=7f40ba" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&xcode&bg_color=FF000000&hide_border=true" />
 
 </div>
