@@ -19,8 +19,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <img src="https://komarev.com/ghpvc/?username=MayIHaveK&label=Views&color=orange&style=for-the-badge" alt="访问量统计"/>&emsp;
     <img src="https://img.shields.io/badge/-Java-ff5f3a?style=for-the-badge&logoColor=violet"/></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=MayIHaveK&label=Views&color=orange&style=for-the-badge" alt="访问量统计"/>&emsp;
+    <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000"/></a>&emsp;
   </div>
 
 </div>
