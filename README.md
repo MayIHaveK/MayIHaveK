@@ -6,7 +6,7 @@
     </a>
   </div>
     <!-- knock code pictures 敲代码的图片 -->
-  <img src="http://43.139.222.77:5212/f/4BTD/Logo.png" height="225px" style="width: auto;" />
+  <img src="http://43.139.222.77:5212/f/4BTD/Logo.png" height="425px" style="width: auto;" />
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
