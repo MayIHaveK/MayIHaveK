@@ -14,4 +14,12 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=MayIHaveK&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
 </div>
