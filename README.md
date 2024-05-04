@@ -4,8 +4,6 @@
     <a href="https://github.com/MayIHaveK">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=545&lines=System.out.println(%22Hello%2C%20World%22);你好，朋友！&center=true&size=27" />
     </a>
-    <!-- Github Readme Activity Graph -->
-    <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&theme=react" />-->
   </div>
     <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -14,7 +12,6 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
@@ -25,5 +22,7 @@
     <img src="https://img.shields.io/badge/-Go-00bdd8?style=for-the-badge&logo=Go&logoColor=fff"/></a>&emsp;
     <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000"/></a>&emsp;
   </div>
+<!-- Github Readme Activity Graph -->
+    <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&theme=react" />-->
 
 </div>
