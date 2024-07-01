@@ -7,7 +7,7 @@
   </div>
     <!-- 图片 -->
   <picture>
-    <img src="https://s21.ax1x.com/2024/07/01/pkgS7p4.jpg" height="525px"/>
+    <img src="https://ooo.0x0.ooo/2024/07/01/OPy15I.jpg" height="525px"/>
   </picture>
   <div>&nbsp;</div>
 
