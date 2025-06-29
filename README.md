@@ -24,6 +24,11 @@
 <!-- Github Readme Activity Graph -->
 <!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&xcode&bg_color=FF000000&hide_border=true" /> -->
 
-![](https://raw.githubusercontent.com/MayIHaveK/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayIHaveK/MayIHaveK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayIHaveK/MayIHaveK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MayIHaveK/MayIHaveK/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 </div>
