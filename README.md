@@ -22,6 +22,8 @@
 
   <div>&nbsp;</div>
 <!-- Github Readme Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&xcode&bg_color=FF000000&hide_border=true" />
+<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayIHaveK&xcode&bg_color=FF000000&hide_border=true" /> -->
+
+![](https://raw.githubusercontent.com/MayIHaveK/main/assets/github-contribution-grid-snake.svg)
 
 </div>
